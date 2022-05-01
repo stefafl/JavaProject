@@ -1,5 +1,7 @@
 package data;
 
 public class University {
-    //Esto no se como se hace
+    public static void main(String[] args) {
+        System.out.println("Enter something");
+    }
 }
